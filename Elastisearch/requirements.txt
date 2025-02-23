@@ -1,0 +1,4 @@
+elasticsearch-dsl
+elasticsearch
+sentence-transformers
+notebook

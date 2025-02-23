@@ -1,0 +1,101 @@
+city_id,name_of_city,population_city,is_capital
+1,Phoenix 0,419486,False
+2,Houston 1,305035,True
+3,New York 2,439316,False
+4,San Antonio 3,945418,True
+5,Los Angeles 4,309871,True
+6,San Antonio 5,635652,False
+7,New York 6,54568,False
+8,Houston 7,107774,False
+9,San Diego 8,428375,True
+10,San Antonio 9,26226,True
+11,San Jose 10,825789,True
+12,New York 11,892733,True
+13,San Antonio 12,35127,False
+14,San Jose 13,33797,True
+15,San Antonio 14,389701,False
+16,New York 15,626208,False
+17,Philadelphia 16,808746,True
+18,Philadelphia 17,579725,True
+19,Dallas 18,472677,True
+20,Chicago 19,411164,False
+21,Dallas 20,674818,False
+22,San Jose 21,967666,False
+23,San Antonio 22,459266,True
+24,Phoenix 23,21444,False
+25,Chicago 24,946352,False
+26,Dallas 25,233891,False
+27,New York 26,502493,False
+28,Houston 27,28167,False
+29,Phoenix 28,247553,False
+30,Dallas 29,102035,True
+31,Los Angeles 30,149968,True
+32,Houston 31,288510,True
+33,New York 32,711541,True
+34,San Antonio 33,238056,False
+35,San Antonio 34,403672,True
+36,San Antonio 35,406660,True
+37,New York 36,854988,False
+38,Los Angeles 37,257938,True
+39,Phoenix 38,487781,False
+40,Chicago 39,93641,False
+41,Philadelphia 40,958077,True
+42,San Jose 41,420200,False
+43,San Antonio 42,422766,False
+44,Los Angeles 43,351707,True
+45,Los Angeles 44,610178,True
+46,Philadelphia 45,365665,False
+47,Phoenix 46,641876,True
+48,San Antonio 47,803935,False
+49,San Jose 48,286587,True
+50,Houston 49,797511,False
+51,New York 50,478019,False
+52,Los Angeles 51,528591,True
+53,Houston 52,206190,True
+54,Chicago 53,495615,False
+55,Phoenix 54,646633,True
+56,Dallas 55,666304,True
+57,Houston 56,119355,True
+58,San Diego 57,531036,False
+59,Philadelphia 58,227127,False
+60,San Antonio 59,671795,True
+61,San Diego 60,968412,False
+62,Los Angeles 61,333345,False
+63,Los Angeles 62,694168,True
+64,Phoenix 63,161478,False
+65,San Antonio 64,286849,False
+66,Philadelphia 65,636300,False
+67,New York 66,734580,False
+68,Houston 67,138719,True
+69,Houston 68,412038,False
+70,Philadelphia 69,177733,True
+71,Philadelphia 70,18867,True
+72,Chicago 71,840780,True
+73,Chicago 72,239416,True
+74,Phoenix 73,593820,True
+75,Dallas 74,509395,True
+76,Chicago 75,445401,False
+77,Dallas 76,924811,False
+78,Phoenix 77,254011,False
+79,San Jose 78,985445,True
+80,Los Angeles 79,534016,False
+81,Houston 80,364413,False
+82,Dallas 81,457591,False
+83,Chicago 82,587593,True
+84,Philadelphia 83,584088,False
+85,New York 84,284702,True
+86,San Jose 85,826439,False
+87,New York 86,706616,False
+88,San Antonio 87,82460,False
+89,Phoenix 88,818101,False
+90,New York 89,962593,False
+91,San Antonio 90,424037,False
+92,New York 91,622176,True
+93,San Diego 92,646012,False
+94,Houston 93,785328,False
+95,Dallas 94,975136,True
+96,Dallas 95,694160,True
+97,Los Angeles 96,337868,True
+98,Houston 97,963026,False
+99,San Diego 98,631597,True
+100,Phoenix 99,39803,True
